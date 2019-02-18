@@ -1,5 +1,30 @@
-.App {
+
+.nav {
+  background-color:#968b29b8;
+  align-items: center;
+  height: 50px;
+}
+
+.nav-item {
+  align-items: center;
+  width: 33.3%;
   text-align: center;
+  color: white;
+  font-size: 20px;
+  font-family: 'Verdana, Geneva, Tahoma, sans-serif'
+}
+.jumbotron {
+  text-align: center;
+  background-image: url("./images/background.jpg");
+  color: white;
+  font-size: 20px;
+  font-family: 'Verdana, Geneva, Tahoma, sans-serif'
+}
+
+img {
+  width: 150px;
+  height: 150px;
+  margin: 5px;
 }
 
 .App-logo {
