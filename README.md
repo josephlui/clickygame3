@@ -9,7 +9,7 @@ This application is a React app.  The objective of the game is to click on all t
 
 You can find deployment of this application on Github page in following URL:
 
- * https://josephlui.github.io/clickygame/
+ * https://josephlui.github.io/clickygame3/
  
  - - -
  
