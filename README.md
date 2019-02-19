@@ -1,4 +1,4 @@
-# Travel Application
+# Clicky Application
 
 ### Overview
 
